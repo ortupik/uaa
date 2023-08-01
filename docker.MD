@@ -1,0 +1,1 @@
+ docker run --rm -t -i -v C:\Users\Pchemut\Videos\security-work\uaa:/usr/local/tomcat/temp/uaa/ -p 8888:8090 scg-demo-uaa:latest 
